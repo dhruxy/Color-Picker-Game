@@ -1,0 +1,15 @@
+.card {
+  background-color: rgb(43, 40, 40);
+  margin-bottom: 10px;
+}
+.first:hover {
+  cursor: pointer;
+}
+
+.first {
+  width: 80%;
+  height: 80%;
+  margin-top: 30px;
+  /* margin-bottom: 500px; */
+  background-color: c_card;
+}
